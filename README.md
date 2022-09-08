@@ -1,11 +1,5 @@
 # Pokedex App
 
-![GitHub repo size](https://github.com/MarcoAntunes37/pokedex.git)
-![GitHub language count](https://github.com/MarcoAntunes37/pokedex.git)
-![GitHub forks](https://github.com/MarcoAntunes37/pokedex.git)
-![Bitbucket open issues](https://github.com/MarcoAntunes37/pokedex.git)
-![Bitbucket open pull requests](https://github.com/MarcoAntunes37/pokedex.git)
-
 <img src="readme.png" alt="exemplo imagem">
 
 > A pokedex app created with base on data from PokeApiV2 with pagination and information about you favorite Pokemons
