@@ -23,8 +23,9 @@ Before you run, check if you attend to requisites below:
 To install <Pokedex>, follow this steps:
 
 Windows:
-Clone repository and enter on folder to run:
+Clone repository:
 ```
+on aplication folder, open console and type:
 <npm install>
 ```
 
@@ -33,7 +34,8 @@ Clone repository and enter on folder to run:
 To use <Pokedex>, follow this steps:
 
 ```
+on aplication folder, open console and type:
 <npm run dev / npm run build && npm start>
 ```
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](#Pokedex)<br>
