@@ -1,10 +1,10 @@
 # Pokedex App
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://github.com/MarcoAntunes37/pokedex.git)
+![GitHub language count](https://github.com/MarcoAntunes37/pokedex.git)
+![GitHub forks](https://github.com/MarcoAntunes37/pokedex.git)
+![Bitbucket open issues](https://github.com/MarcoAntunes37/pokedex.git)
+![Bitbucket open pull requests](https://github.com/MarcoAntunes37/pokedex.git)
 
 <img src="readme.png" alt="exemplo imagem">
 
