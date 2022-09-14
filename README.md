@@ -38,4 +38,4 @@ on aplication folder, open console and type:
 <npm run dev / npm run build && npm start>
 ```
 
-[⬆ Voltar ao topo](#Pokedex)<br>
+[⬆ Back to top](#pokedex-app)<br>
